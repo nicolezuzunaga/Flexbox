@@ -26,4 +26,4 @@ Las tecnologías que utilicé son:
 Mi objetivo principal al crear esta página fue aplicar mis conocimientos de HTML5, CSS3 y Flexbox para diseñar una interfaz atractiva y funcional que invite a los usuarios a disfrutar de una experiencia relajante.
 
 ## Link a Demo
-Aquí puedes ver mi proyecto terminado: [Flexbox](https://flexbox-wine.vercel.app/) .
+Aquí puedes ver mi proyecto terminado: [Take a break](https://flexbox-wine.vercel.app/) .
