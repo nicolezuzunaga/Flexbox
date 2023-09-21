@@ -1,0 +1,23 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    /*flex-direction: column-reverse;*/
+}
+
+/*Flex - direction:
+    - row
+    - row-reverse
+    - column
+    - column-reverse
+*/
+
+.elemento{
+    width: 25%;
+    background-color: coral;
+    height: 30px;
+    border: solid;
+    margin: 5px;
+    text-align: center;
+}
